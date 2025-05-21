@@ -1,0 +1,18 @@
+# Java and Spring Boot
+/target
+*.class
+*.jar
+*.war
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# OS files
+.DS_Store
+
+# API keys or secrets
+application.properties
+application.yml
+.env
